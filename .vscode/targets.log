@@ -7,7 +7,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Mon Jul 11 22:38:15 2022
+# Make data base, printed on Tue Jul 12 00:28:57 2022
 
 # Variables
 
@@ -49,7 +49,8 @@ PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
 # makefile (from 'Makefile', line 1)
 MAKEFILE_LIST :=  Makefile
 # environment
-FPS_BROWSER_USER_PROFILE_STRING = Default
+FPS_BROWS 
+ER_USER_PROFILE_STRING = Default
 # environment
 TMP = C:\Users\brayd\AppData\Local\Temp
 # environment
@@ -110,8 +111,7 @@ USERNAME = brayd
 # environment
 PUBLIC = C:\Users\Public
 # environment
-VSCODE_AMD_ 
-ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
 VSCODE_CLI = 1
 # environment
@@ -133,7 +133,8 @@ USERDOMAIN = LAPTOP-ACRET3E7
 # environment
 MAKELEVEL := 0
 # environment
-PLATFORMIO_PATH = C:\Users\brayd\.platformio\python3;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\MinGW\bin;C:\Program Files\Java\jdk-16.0.2\bin;C:\php;C:\MinGW\mingw32\bin;C:\Program Files\Lua54;C:\Program Files\Git\cmd;C:\Program Files\Ruby\ruby-2.7.2\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Java\jdk-15.0.2\bin;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\1033;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\MongoDB\Tools\100\bin;C:\Program Files\kotlinc\bin;C:\Users\brayd\AppData\Local\Android\Sdk\platform-tools;C:\Users\brayd\flutter\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\char-code-from-char-1.0.0;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\cp;C:\Program Files\create-file;C:\Program Files\nodejs\;C:\hla;C:\sqlite-tools-win32-x86-3370200;C:\Users\brayd\.platformio\penv\Scripts;C:\Program Files (x86)\SMLNJ\bin\;D:\ghc-9.0.2-x86_64-unknown-mingw32\bin;C:\Program Files\password_generator\bin;C:\Program Files\cproj-generator;C:\ChromeDriver;C:\Program Files\NASM;C:\Program Files (x86)\Arduino\hardware\tools\avr\bin;C:\Users\brayd\.cargo\bin;C:\Ruby27-x64\bin;C:\Users\brayd\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\brayd\AppData\Local\Programs\Python\Python38-32\;C:\Users\brayd\AppData\Local\Microsoft\WindowsApps;C:\Users\brayd\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\brayd\.dotnet\tools;C:\Users\brayd\AppData\Roaming\npm;C:\Users\brayd\AppData\Local\Programs\Julia-1.7.2\bin;C:\Users\brayd\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\RockPaperScissors\bin;C:\SDL2-2.0.22-VC\lib\x64;;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\MinGW\bin;C:\Program Files\Java\jdk-16.0.2\bin;C:\php;C:\MinGW\mingw32\bin;C:\Program Files\Lua54;C:\Program Files\Git\cmd;C:\Program Files\Ruby\ruby-2.7.2\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Java\jdk-15.0.2\bin;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\1033;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\MongoDB\Tools\100\bin;C:\Program Files\kotlinc\bin;C:\Users\brayd\AppData\Local\Android\Sdk\platform-tools;C:\Users\brayd\flutter\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\char-code-from-char-1.0.0;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\cp;C:\Program Files\create-file;C:\Program Files\nodejs\;C:\hla;C:\sqlite-tools-win32-x86-3370200;C:\Users\brayd\.platformio\penv\Scripts;C:\Program Files (x86)\SMLNJ\bin\;D:\ghc-9.0.2-x86_64-unknown-mingw32\bin;C:\Program Files\password_generator\bin;C:\Program Files\cproj-generator;C:\ChromeDriver;C:\Program Files\NASM;C:\Program Files (x86)\Arduino\hardware\tools\avr\bin;C:\Users\brayd\.cargo\bin;C:\Ruby27-x64\bin;C:\Users\brayd\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\brayd\AppData\Local\Programs\Python\Python38-32\;C:\Users\brayd\AppData\Local\Microsoft\WindowsApps;C:\Users\brayd\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\brayd\.dotnet\tools;C:\Users\brayd\AppData\Roaming\npm;C:\Users\brayd\AppData\Local\Programs\Julia-1.7.2\bin;C:\Users\brayd\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\RockPaperScissors\bin;C:\SDL2-2.0.22-VC\lib\x64;
+PLATFORMIO_PATH = C:\Users\brayd\.platformio\python3;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\MinGW\bin;C:\Program Files\Java\jdk-16.0.2\bin;C:\php;C:\MinGW\mingw32\bin;C:\Program Files\Lua54;C:\Program Files\Git\cmd;C:\Program Files\Ruby\ruby-2.7.2\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Java\jdk-15.0.2\bin;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\1033;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\MongoDB\Tools\100\bin;C:\Program Files\kotlinc\bin;C:\Users\brayd\AppData\Local\Android\Sdk\platform-tools;C:\Users\brayd\flutter\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\char-code-from-char-1.0.0;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\cp;C:\Program Files\create-file;C:\Program Files\nodejs\;C:\hla;C:\sqlite-tools-win32-x86-3370200;C:\Users\brayd\.platformio\penv\Scripts;C:\Program Files (x86)\SMLNJ\bin\;D:\ghc-9.0.2-x86_64-unknown-mingw32\bin;C:\Program Files\password_generator\bin;C:\Program Files\cproj-generator;C:\ChromeDriver;C:\Program Files\NASM;C:\Program Files (x86)\Arduino\hardware\tools\avr\bin;C:\Users\brayd\.cargo\bin;C:\Ruby27-x64\bin;C:\Users\brayd\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\brayd\AppData\Local\Programs\Python\Python38-32\;C:\Users\brayd\AppData\Local\Microsoft\WindowsApps;C:\Users\brayd\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\brayd\.dotnet\tools;C:\Users\brayd\AppData\Roaming\npm;C:\Users\brayd\AppData\Local\Programs\Julia-1.7.2\bin;C:\Users\brayd\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\RockPaperScissors\bin;C:\SDL2-2.0.22-VC\lib\x64;;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\MinGW\bin;C:\Program Files\Java\jdk-16.0.2\bin;C:\php;C:\MinGW\mingw32\bin;C:\Program Files\Lua54;C:\Program Files\Git\cmd;C:\Program Files\Ruby\ruby-2.7.2\bin;C:\Windows\Microsoft.NET\Framework64\v4.0.30319;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Java\jdk-15.0.2\bin;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\1033;C:\Program Files\MongoDB\Server\4.4\bin;C:\Program Files\MongoDB\Tools\100\bin;C:\Program Files\kotlinc\bin;C:\Users\brayd\AppData\Local\Android\Sdk\platform-tools;C:\Users\brayd\flutter\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\char-code-from-char-1.0.0;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\cp;C:\Program Files\create-file;C:\Program Files\nodejs\;C:\hla;C:\sqlite-tools-win32-x86-3370200;C:\Users\brayd\.platformio\penv\Scripts;C:\Program Files (x86)\SMLNJ\bin\;D:\ghc-9.0.2-x86_64-unknown-mingw32\bin;C:\Program Files\password_generator\bin;C:\Program Files\cproj-generator;C:\ChromeDriver;C:\Program Files\NASM;C:\Program Files (x86)\Arduino\hardware\tools\avr\bin;C:\Users\brayd\.cargo\bin;C:\Ruby27-x64\bin;C:\Users\brayd\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\brayd\AppData\Local\Programs\Python\Python38-32\;C:\Users\brayd\AppData\Local\Microsoft\WindowsApps;C:\Users\brayd\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\brayd\.dotnet\tools;C:\Users\brayd\AppData\Roaming\npm;C:\Users\brayd\AppData\Local\Programs\J 
+ulia-1.7.2\bin;C:\Users\brayd\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\RockPaperScissors\bin;C:\SDL2-2.0.22-VC\lib\x64;
 # default
 MAKE = $(MAKE_COMMAND)
 # default
@@ -238,48 +239,48 @@ USERDOMAIN_ROAMINGPROFILE = LAPTOP-ACRET3E7
 
 # No pattern-specific variable values.
 
-# Directories
+# Direc 
+tories
 
 # C:\Program Files\Ruby\ruby-2.7.2\bin: could not be stat'd.
 # C:\Users\brayd\flutter\bin: could not be stat'd.
 # C:\Users\brayd\AppData\Local\Programs\Python\Python38-32\ (key C:/Users/brayd/AppData/Local/Programs/Python/Python38-32/, mtime 1596840911): 17 files, no impossibilities.
 # C:\Users\brayd\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/brayd/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1657218941): 4 files, no impossibilities.
-# C:\Users\brayd\AppData\Local\Programs\Pyt 
-hon\Python38-32\Scripts\ (key C:/Users/brayd/AppData/Local/Programs/Python/Python38-32/Scripts/, mtime 1643151636): 52 files, no impossibilities.
+# C:\Users\brayd\AppData\Local\Programs\Python\Python38-32\Scripts\ (key C:/Users/brayd/AppData/Local/Programs/Python/Python38-32/Scripts/, mtime 1643151636): 52 files, no impossibilities.
 # C:\WINDOWS\System32\WindowsPowerShell\v1.0\ (key C:/WINDOWS/System32/WindowsPowerShell/v1.0/, mtime 1622011829): 30 files, no impossibilities.
 # C:\Users\brayd\AppData\Roaming\npm (key C:/Users/brayd/AppData/Roaming/npm, mtime 1631736179): 63 files, no impossibilities.
 # C:\Program Files\password_generator\bin (key C:/Program Files/password_generator/bin, mtime 1645943862): 3 files, no impossibilities.
-# . (key c:/Users/brayd/Documents/Coding/Projects/WeightManager, mtime 1657589825): 6 files, no impossibilities.
+# . (key c:/Users/brayd/Documents/Coding/Projects/WeightManager, mtime 1657596477): 9 files, no impossibilities.
 # C:\php: could not be stat'd.
 # C:\Program Files\char-code-from-char-1.0.0 (key C:/Program Files/char-code-from-char-1.0.0, mtime 1629432203): 6 files, no impossibilities.
 # C:\hla (key C:/hla, mtime 1640453384): 13 files, no impossibilities.
-# C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/, mtime 1630391895): 7 files, no impossibilities.
+# C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\ (key C:/Program Files/Microsoft SQL Serve 
+r/Client SDK/ODBC/170/Tools/Binn/, mtime 1630391895): 7 files, no impossibilities.
 # C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\ (key C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/, mtime 1628456781): 144 files, no impossibilities.
 # C:\Program Files\RockPaperScissors\bin (key C:/Program Files/RockPaperScissors/bin, mtime 1654789168): 3 files, no impossibilities.
-# C:\Program Files\Microsoft SQL Server\150\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/15 
-0/Tools/Binn/, mtime 1632614025): 14 files, no impossibilities.
+# C:\Program Files\Microsoft SQL Server\150\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/150/Tools/Binn/, mtime 1632614025): 14 files, no impossibilities.
 # C:\Users\brayd\AppData\Local\Programs\Julia-1.7.2\bin (key C:/Users/brayd/AppData/Local/Programs/Julia-1.7.2/bin, mtime 1645569767): 61 files, no impossibilities.
 # C:\Users\brayd\.platformio\penv\Scripts (key C:/Users/brayd/.platformio/penv/Scripts, mtime 1657468718): 27 files, no impossibilities.
 # D:\ghc-9.0.2-x86_64-unknown-mingw32\bin: could not be stat'd.
-# C:\Users\brayd\AppData\Local\Microsoft\WindowsApps (key C:/Users/brayd/AppData/Local/Microsoft/WindowsApps, mtime 1657586467): 30 files, no impossibilities.
+# C:\Users\brayd\AppData\Local\Microsoft\WindowsApps (key C:/Users/brayd/AppData/L 
+ocal/Microsoft/WindowsApps, mtime 1657586467): 30 files, no impossibilities.
 # C:\Program Files\Java\jdk-15.0.2\bin: could not be stat'd.
 # C:\Program Files\Git\cmd (key C:/Program Files/Git/cmd, mtime 1603832947): 8 files, no impossibilities.
 # C:\WINDOWS\System32\OpenSSH\: could not be stat'd.
 # C:\MinGW\bin (key C:/MinGW/bin, mtime 1628958718): 59 files, no impossibilities.
 # C:\MinGW\mingw32\bin (key C:/MinGW/mingw32/bin, mtime 1599501419): 13 files, no impossibilities.
-# C:\Program Files\cp (key C:/Pro 
-gram Files/cp, mtime 1630266542): 4 files, no impossibilities.
+# C:\Program Files\cp (key C:/Program Files/cp, mtime 1630266542): 4 files, no impossibilities.
 # C:\WINDOWS (key C:/WINDOWS, mtime 1655739243): 127 files, no impossibilities.
 # C:\Program Files\Java\jdk-16.0.2\bin (key C:/Program Files/Java/jdk-16.0.2/bin, mtime 1629140904): 123 files, no impossibilities.
 # C:\Program Files (x86)\Arduino\hardware\tools\avr\bin (key C:/Program Files (x86)/Arduino/hardware/tools/avr/bin, mtime 1640399461): 40 files, no impossibilities.
-# C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 1631736939): 14 files, no impossibilities.
+# C:\Program Files\nodejs\ (key C:/Program Files/nodejs/, mtime 16317369 
+39): 14 files, no impossibilities.
 # C:\ChromeDriver: could not be stat'd.
 # C:\Program Files\cproj-generator (key C:/Program Files/cproj-generator, mtime 1645945797): 5 files, no impossibilities.
 # C:\Users\brayd\.dotnet\tools: could not be stat'd.
 # C:\Program Files\MongoDB\Tools\100\bin: could not be stat'd.
 # C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin (key C:/Program Files/Microsoft/jdk-11.0.12.7-hotspot/bin, mtime 1632632684): 127 files, no impossibilities.
-# C:\Program Files\NASM (key C:/Pro 
-gram Files/NASM, mtime 1652124046): 18 files, no impossibilities.
+# C:\Program Files\NASM (key C:/Program Files/NASM, mtime 1652124046): 18 files, no impossibilities.
 # C:\Ruby27-x64\bin: could not be stat'd.
 # C:\Users\brayd\AppData\Local\Android\Sdk\platform-tools (key C:/Users/brayd/AppData/Local/Android/Sdk/platform-tools, mtime 1624039901): 20 files, no impossibilities.
 # C:\WINDOWS\System32\Wbem (key C:/WINDOWS/System32/Wbem, mtime 1655739245): 154 files, no impossibilities.
@@ -288,8 +289,7 @@ gram Files/NASM, mtime 1652124046): 18 files, no impossibilities.
  (x86)\Microsoft SQL Server\150\Tools\Binn\ (key C:/Program Files (x86)/Microsoft SQL Server/150/Tools/Binn/, mtime 1629826417): 11 files, no impossibilities.
 # C:\Program Files\create-file (key C:/Program Files/create-file, mtime 1630301634): 4 files, no impossibilities.
 # C:\Program Files\Lua54 (key C:/Program Files/Lua54, mtime 1603806710): 6 files, no impossibilities.
-# C:\Program Files\Microsoft SQL Server\150\DTS\Binn\ (key C:/Program Files/Microsoft SQL Server/150/DTS/Binn/, mtime 1629826430): 46 fil 
-es, no impossibilities.
+# C:\Program Files\Microsoft SQL Server\150\DTS\Binn\ (key C:/Program Files/Microsoft SQL Server/150/DTS/Binn/, mtime 1629826430): 46 files, no impossibilities.
 # C:\Users\brayd\AppData\Local\Programs\oh-my-posh\bin (key C:/Users/brayd/AppData/Local/Programs/oh-my-posh/bin, mtime 1649202648): 3 files, no impossibilities.
 # C:\Program Files\Common Files\Oracle\Java\javapath (key C:/Program Files/Common Files/Oracle/Java/javapath, mtime 1629140905): 6 files, no impossibilities.
 # C:\SDL2-2.0.22-VC\lib\x64 (key C:/SDL2-2.0.22-VC/lib/x64, mtime 1656630782): 6 files, no impossibilities.
@@ -299,11 +299,11 @@ es, no impossibilities.
 # C:\Program Files (x86)\SMLNJ\bin\ (key C:/Program Files (x86)/SMLNJ/bin/, mtime 1645239904): 13 files, no impossibilities.
 # C:\WINDOWS\system32 (key C:/WINDOWS/system32, mtime 1657567873): 2903 files, no impossibilities.
 # C:\Program Files\MongoDB\Server\4.4\bin: could not be stat'd.
-# C:\Windows\Microsoft.NET\Framework64\v4.0.30319 (key C:/Windows/Microsoft.NET/Framework64/v4.0.30319, mtime 1657586611): 411 files, no impossibilities.
+# C:\Windows\Microsoft.NET\Framework64\v4.0.30319 (key C:/Windows/Microsoft.NET/Framework64/v4.0.30319, mtime 1657592872): 411 files, no impossibilities.
 # C:\Program Files\kotlinc\bin (key C:/Program Files/kotlinc/bin, mtime 1622769300): 14 files, no impossibilities.
 # C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\1033 (key C:/Program Files (x86)/Microsoft SDKs/Windows/v10.0A/bin/NETFX 4.8 Tools/1033, mtime 1603239080): 8 files, no impossibilities.
 
-# 4655 files, no impossibilities in 55 directories.
+# 4658 files, no impossibilities in 55 directories.
 
 # Implicit Rules
 
@@ -328,7 +328,7 @@ all:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-07-11 22:38:08
+#  Last modified 2022-07-12 00:27:39
 #  File has been updated.
 #  Successfully updated.
 
@@ -337,7 +337,7 @@ build: src/main.cpp
 #  Modification time never checked.
 #  File has not been updated.
 #  recipe to execute (from 'Makefile', line 4):
-	$(CC) $^ -o bin/weightmgr
+	$(CC) $^ -o bin/workoutmgr
 
 # Not a target:
 .DEFAULT:
@@ -353,23 +353,23 @@ src/main.cpp:
 
 # files hash-table stats:
 # Load=6/1024=1%, Rehash=0, Collisions=0/17=0%
-# VPATH Search Paths
- 
-make.exe: *** No rule to make target 'all'.  Stop.
+# VPATH Search Paths 
 
 
 # No 'vpath' search paths.
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 9 (8) / strings = 4379 / storage = 71907 B / avg = 16 B
-# current buf: size = 8174 B / used = 6589 B / count = 398 / avg = 16 B
-# other used: total = 63733 B / count = 3981 / avg = 16 B
-# other free: total = 74 B / max = 16 B / min = 6 B / avg = 9 B
+# strcache buffers: 9 (8) / strings = 4381 / storage = 71923 B / avg = 16 B
+# current buf: size = 8174 B / used = 6600 B / count = 399 / avg = 16 B
+# other used: total = 63749 B / count = 3982 / avg = 16 B
+# other free: total = 69 B / max = 14 B / min = 3 B / avg = 8 B
 
-# strcache performance: lookups = 4719 / hit rate = 7%
+# strcache performance: lookups = 4722 / hit rate = 7%
 # hash-table stats:
-# Load=4379/8192=53%, Rehash=0, Collisions=2076/4719=44%
-# Finished Make data base on Mon Jul 11 22:38:15 2022
+# Load=4381/8192=53%, Rehash=0, Collisions=2080/4722=44%
+# Finished Make data base on Tue Jul 12 00:28:57 2022
 
  
+make.exe: *** No rule to make target 'all'.  Stop.
+
