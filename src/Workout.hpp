@@ -2,6 +2,7 @@
 #define WORKOUT_HPP
 #include <map>
 #include <string>
+#include <fstream>
 #include "Date.hpp"
 
 using uint = unsigned int;
@@ -14,7 +15,11 @@ private:
 public:
     Workout(Date date);
     std::string ToCSVString();
-    Workout& Add(std::string str, int pds);
+    Workout& Add(std::string str, uint pds);
+    bool HasMachine(std::string machine);
+    uint& operator[](std::string machine);
+    void Load(std::fstream& file);
+    void Print();
 };
 
 #endif // WORKOUT_HPP

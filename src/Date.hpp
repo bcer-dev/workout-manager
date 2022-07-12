@@ -6,6 +6,7 @@ struct Date
     int day;
     int month;
     int year;
+    Date();
 };
 
 #endif // DATE_H
