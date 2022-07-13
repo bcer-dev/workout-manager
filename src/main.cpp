@@ -4,7 +4,7 @@
 #include <vector>
 #include "Workout.hpp"
 
-#define STORAGE_FILE "workout_data.csv"
+#define STORAGE_FILE 	"workout_data.csv"
 
 enum class MenuOptions { VIEW_EXISTING, UPDATE_CREATE, QUIT };
 
@@ -34,7 +34,7 @@ int main(int argc, char **argv)
 		std::cout << "What would you like to do?\n";
 		std::cout << "1. View existing workout plans\n";
 		std::cout << "2. Create or update workout plans\n";
-		std::cout << "3. Save & Quit\n";
+		std::cout << "3. Quit\n";
 		std::cout << "> ";
 
 		std::cin >> selected_option;
@@ -48,7 +48,6 @@ int main(int argc, char **argv)
 			break;
 
 		case MenuOptions::UPDATE_CREATE:
-			save_file.close();
 			save_file.open(STORAGE_FILE, std::ios::out);
 			CreateNewWorkout(save_file, workout_data);
 			break;
@@ -74,9 +73,6 @@ int main(int argc, char **argv)
 #endif
 	}
 
-	save_file.open(STORAGE_FILE, std::ios::out);
-	save_file << workout_data->ToCSVString();
-	save_file.close();
 	delete workout_data;
 
 	return 0;
@@ -107,9 +103,11 @@ bool CreateNewWorkout(std::fstream& file, Workout *workout)
 #endif
 
 	std::cout << "Edit workout\n";
-	std::cout << "Enter a machine name and how much weight you used or \"done\" to return to menu...\n";
+	std::cout << "Enter a machine name and how much weight you used or \"save\" to save...\n";
 
 	ReadNewWorkoutData(workout);
+	file << workout->ToCSVString();
+	file.close();
 
 	return true;
 }
@@ -118,7 +116,7 @@ bool CreateNewWorkout(std::fstream& file, Workout *workout)
 void ReadNewWorkoutData(Workout* wk)
 {
 	std::string raw_input{};
-	while (raw_input != "done")
+	while (raw_input != "save")
 	{
 		std::cout << "> ";
 		std::getline(std::cin, raw_input);
